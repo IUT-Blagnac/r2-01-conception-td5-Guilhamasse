@@ -30,16 +30,16 @@ Ce TP vise à reprendre les diagrammes des UC et les lier avec le diagramme de c
 
 == À propos...
 
-NOM:: DOE
+NOM:: Guilhamassé
 
-Prénom:: John
+Prénom:: Quentin
 
-Groupe #::
+Groupe #:: 2B
 
 [%interactive]
 - [X] Enseignants
 - [ ] 1
-- [ ] 2
+- [X ] 2
 - [ ] 3
 - [ ] 4
 
